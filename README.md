@@ -1,4 +1,4 @@
-![Profile background](images/background.jpg)
+![Profile background](images/header.png)
 
 ## Hi there 👋
 
