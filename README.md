@@ -1,3 +1,5 @@
+![Profile background](images/background.jpg)
+
 ## Hi there 👋
 
 My name is Marcin and I'm a software developer since almost two decades. I'm working mostly on enterprise applications (C#/Typescript), however in my free time I'm creating applications for iOS and macOS in my favorite language: Swift. I live in Wrocław/Poland with my lovely wife and daughter.
