@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 66 66" role="img">
+    <title>Pixelfed</title>
+    <g transform="matrix(2.0625,0,0,2.0625,-1.42109e-14,0)">
+        <path fill="currentColor" 
+            d="M16,32C7.163,32 0,24.837 0,16C0,7.163 7.163,0 16,0C24.837,0 32,7.163 32,16C32,24.837 24.837,32 16,32ZM14.73,19.493L17.665,19.493C20.43,19.493 22.671,17.311 22.671,14.619C22.671,11.928 20.43,9.745 17.665,9.745L13.429,9.745C11.833,9.745 10.54,11.004 10.54,12.557L10.54,23.501L14.73,19.493Z" />
+    </g>
+</svg>

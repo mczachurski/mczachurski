@@ -12,15 +12,11 @@ You can find me also on:
 ![Website](images/mastodon.svg)
 <a rel="me" href="https://mastodon.social/@mczachurski" target="_blank" aria-label="Mastodon">https://mastodon.social/@mczachurski</a>
 
-![Website](images/twitter.svg)
-<a href="https://twitter.com/mczachurski" target="_blank" aria-label="Twitter" rel="noopener">https://twitter.com/mczachurski</a>
+![Writefreely](images/writefreely.svg)
+<a href="https://writefreely.social/mczachurski" target="_blank" aria-label="Writefreely" rel="noopener">https://writefreely.social/mczachurski</a>
 
-![Website](images/instagram.svg)
-<a href="https://www.instagram.com/mczachurski/" target="_blank" aria-label="Instagram" rel="noopener">https://www.instagram.com/mczachurski/</a>
-
-![Website](images/medium.svg)
-<a href="https://medium.com/@mczachurski" target="_blank" aria-label="Medium" rel="noopener">https://medium.com/@mczachurski</a>
-
+![Website](images/pixelfed.svg)
+<a href="https://pixelfed.social/@mczachurski" target="_blank" aria-label="Pixelfed" rel="noopener">https://pixelfed.social/@mczachurski</a>
 
 ### Github statistics
 
