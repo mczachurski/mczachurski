@@ -12,8 +12,7 @@ You can find me also on:
 ![Mastodon](images/mastodon.svg)
 <a rel="me" href="https://mastodon.social/@mczachurski" target="_blank" aria-label="Mastodon">https://mastodon.social/@mczachurski</a>
 
-<img src="images/vernissage.svg" width="18" style="display: inline; width: 18">
-<a href="https://vernissage.photos/@mczachurski" target="_blank" aria-label="Vernissage" rel="noopener">https://vernissage.photos/@mczachurski</a>
+<img src="images/vernissage.svg" width="18" style="display: inline; width: 18"> <a href="https://vernissage.photos/@mczachurski" target="_blank" aria-label="Vernissage" rel="noopener">https://vernissage.photos/@mczachurski</a>
 
 ### Github statistics
 
