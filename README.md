@@ -18,13 +18,6 @@ You can find me also on:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mczachurski&show_icons=true&theme=default&count_private=false)
 
-### Pinned repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VernissageApp&repo=VernissageServer)](https://github.com/VernissageApp/VernissageServer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VernissageApp&repo=VernissageWeb)](https://github.com/VernissageApp/VernissageWeb)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mczachurski&repo=wallpapper)](https://github.com/mczachurski/wallpapper)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Impressia&repo=Impressia)](https://github.com/Impressia/Impressia)
-
 
 ### Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mczachurski)
